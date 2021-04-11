@@ -1,0 +1,13 @@
+validate호출2018-12-21 오후 14:17:18
+validate호출2018-12-21 오후 14:17:29
+execute호출2018-12-21 오후 14:17:29
+getAllStudents호출2018-12-21 오후 14:17:34
+getAllStudentRecords호출2018-12-21 오후 14:17:34
+makeARegistration호출2018-12-21 오후 14:18:30
+getStudentRecord호출2018-12-21 오후 14:18:30
+getCourseRecord호출2018-12-21 오후 14:18:30
+validate호출2018-12-26 오후 23:29:09
+validate호출2018-12-26 오후 23:29:21
+execute호출2018-12-26 오후 23:29:21
+getAllStudents호출2018-12-26 오후 23:29:26
+getAllStudentRecords호출2018-12-26 오후 23:29:26
